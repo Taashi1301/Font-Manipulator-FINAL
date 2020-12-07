@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right bottom, #d1846b, #ce7578, #c26b89, #ab669a, #8966a6, #8566ab, #8167b0, #7c68b5, #a265b5, #c561ad, #e45e9e, #fb5f89);
+    font-family: 'Nerko One', cursive;
+}
+.heading{
+    background-color: black;
+    color: #A9CEC2;
+    margin-top: none;
+    width: 80%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    top: 0;
+    border: 2px solid #A9CEC2;
+    box-shadow: 5px 5px 5px #A9CEC2;
+}
+canvas, video{
+    border: 2px groove black;
+    border-radius: 30px;
+    float: none;
+    box-shadow: 5px 5px 5px #A9CEC2;
+}
+.footer{
+    border: 2px solid #A9CEC2;
+    width: 50%;
+}
